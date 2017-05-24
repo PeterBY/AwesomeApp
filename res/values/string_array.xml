@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="pinkie_pie_quotes">
+        <item>Hello! My name is Pinkie Pie.</item>
+        <item>You made me speak ridiculous! </item>
+        <item>What\'s up?</item>
+        <item>I\'m gonna make you smile)</item>
+		<item>Hey, everypony!</item>
+        <item>What\'s so funny? This is serious business, everypony!</item>
+        <item>It\'s awfully pretty.</item>
+        <item>If I only had some kind of party cannon that could decorate everything super fast!</item>
+		<item>Hey! What happened to the princess?</item>
+        <item>Aah! Bats! Bats on my face!</item>
+    </string-array>
+</resources>
